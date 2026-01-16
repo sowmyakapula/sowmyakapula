@@ -1,4 +1,4 @@
-## Hey there, I’m Sowmya Kapula 👋
+## Hey 👋, I’m Sowmya Kapula 
 
 This GitHub showcases projects at the intersection of project management, engineering, and data science. Each repository includes a brief overview outlining the problem, approach, and outcomes.
 
