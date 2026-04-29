@@ -1,18 +1,29 @@
-## Hey 👋, I’m Sowmya Kapula 
+## Sowmya Kapula | Data-Driven Project & Program Manager | Python, SQL, ML
 
-This GitHub showcases projects at the intersection of project management, engineering, and data science. Each repository includes a brief overview outlining the problem, approach, and outcomes.
+I’m a data-driven Project and Program Manager with an engineering background, applying Python, SQL, and machine learning to solve business and operational problems.
+
+This portfolio showcases end-to-end projects focused on delivery optimization, predictive modeling, and data-driven decision-making.
 
 If you’d like to connect, feel free to check out my [LinkedIn](https://www.linkedin.com/in/sowmyakapula)
 
 ---
+
 ## About Me
-I’m a project and program manager with an engineering background who applies data science using SQL, Python, and data storytelling to deliver insights and measurable outcomes.
+I specialize in bridging business and data by translating complex datasets into actionable insights. My work focuses on improving operational efficiency, optimizing processes, and supporting strategic decisions through data analysis and machine learning.
+
+---
 
 ## What you’ll find here
 • SQL and data analysis case studies  
-• Python based exploratory analysis  
-• Projects focused on real world business and operational problems  
-• Clear, documented approaches emphasizing outcomes and clarity  
+• Python-based exploratory analysis and modeling  
+• End-to-end projects solving real-world business problems  
+• Clear, structured documentation focused on outcomes  
+
+---
 
 ## Tools & Technologies
-SQL • Python • Pandas • Jupyter • Tableau • Power BI • Git
+
+**Languages:** Python, SQL  
+**Libraries & Platforms:** Pandas, Scikit-learn, Jupyter  
+**Visualization:** Tableau, Power BI  
+**Other:** Git
