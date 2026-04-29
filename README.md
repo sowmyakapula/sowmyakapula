@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sowmyakapula)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/sowmyakapula)
 
----
-
 I’m a data-driven Project and Program Manager with an engineering background, applying Python, SQL, and machine learning to solve business and operational problems.
 
 This portfolio showcases end-to-end projects focused on delivery optimization, predictive modeling, and data-driven decision-making.
@@ -16,6 +14,9 @@ This portfolio showcases end-to-end projects focused on delivery optimization, p
 
 🔹 **Shipment Delivery Prediction Model**  
 Built a machine learning model (ROC-AUC: ~0.74) to predict delivery delays and identify key operational risk factors  
+
+🔹 **Supply Chain Cost Optimization Analysis**  
+Developed regression models to identify key cost drivers and improve operational efficiency in logistics systems  
 
 🔹 **Pricing Optimization Analysis**  
 Identified a ~$3.47M revenue opportunity through data analysis and modeling  
